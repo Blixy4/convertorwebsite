@@ -1,0 +1,9 @@
+.header{
+    color: blue;
+    display: block;
+    background-color: aqua;
+    border: 1 solid black;
+    border-radius: 20px;
+    height: auto;
+    padding: 10px;
+}
